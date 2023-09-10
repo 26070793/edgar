@@ -1,2 +1,1 @@
-# edgar
-este repositorio es del modulo 2 del prepcourse de henry
+este proyecto es una prueba de como crear un repositorio desde githud a mi escritorio local 
